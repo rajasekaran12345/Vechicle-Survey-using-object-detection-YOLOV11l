@@ -66,7 +66,9 @@ python vehicle_survey.py
 
 - **Real-time annotated video** with bounding boxes and vehicle counts  
 - **CSV file** storing vehicle statistics (optional)  
-- **Graphical summary** (if enabled) for traffic trend analysis  
+- **Graphical summary** (if enabled) for traffic trend analysis 
+
+![alt text](image-1.png)
 
 ---
 
